@@ -9,7 +9,7 @@ Welcome to the **Django Projectus** repository! This beginner-friendly project i
 3. [Todo List](#todo-list)
 4. [CRUD Application](#crud-application)
 5. [Weather App](#weather-app)
-6. [Currency Graph Predictor](#currency-graph-predictor)
+6. [Finica](#Finica)
 
 ## Prerequisites
 Before diving into the project, the following should be there:
@@ -56,8 +56,8 @@ The **CRUD application** demonstrates basic Create, Read, Update, and Delete ope
 ## Weather App
 The **Weather App** fetches real-time weather data for various cities using the OpenWeatherMap API. You can search for city weather by name. Access it at `http://localhost:8000/weather/`.
 
-## Currency Graph Predictor
-The **Currency Graph Predictor** uses LSTM (Long Short-Term Memory) to predict future currency values. It currently supports Tanzanian Shilling (TZS) and US Dollar (USD). The left graph shows real-time stock prices, while the right graph predicts future prices.
+## Finica
+The **Finica** personal Finance app manages your incomea and expenses and displays for a graph showing how you can proper monitor them.
 
 ## Deployment (Optional)
 To deploy your project, consider using platforms like **Heroku** or **PythonAnywhere**. Refer to their documentation for deployment instructions.
