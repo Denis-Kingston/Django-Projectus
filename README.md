@@ -1,7 +1,7 @@
 # Django-Projectus
 # Django Projectus: Beginner's Guide
 
-Welcome to the **Django Projectus** repository! This beginner-friendly project includes a **Todo List**, a **CRUD application**, a **Weather App**, and an exciting **Currency Graph Predictor**. Whether you're new to Django or just looking to explore, this guide will help you set up and run the project.
+Welcome to the **Django Projectus** repository! This beginner-friendly project includes a **Todo List**, a **CRUD application**, a **Weather App**, and an exciting **Personal Finance app**. Whether you're new to Django or just looking to explore, this guide will help you set up and run the project.
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
