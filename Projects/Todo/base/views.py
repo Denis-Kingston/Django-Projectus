@@ -8,10 +8,10 @@ def Tasklist(request):
     }
     return render(request,'home.html',context)
 def Create_task(request):
-   return('create') 
+#    creating tasks on the todo list
     
 def Update_task(request):
-    return ('update') 
+    # updating tasks on the todo list 
 
 def Delete_task(request):
-    return('delete')   
+    # deleting tasks on the todo list
