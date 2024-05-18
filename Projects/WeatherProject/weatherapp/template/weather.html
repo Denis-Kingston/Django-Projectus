@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Weather App</title>
-</head>
-<body>
+{% extends 'base.html' %}
     <h1>Weather for {{ city }}</h1>
     <p>Temperature: {{ temperature }}°C</p>
     <p>Conditions: {{ conditions }}</p>
-</body>
-</html>
+{% endblock  %}    

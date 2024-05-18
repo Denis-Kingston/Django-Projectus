@@ -1,15 +1,17 @@
 # Django-Projectus
 # Django Projectus: Beginner's Guide
 
-Welcome to the **Django Projectus** repository! This beginner-friendly project includes a **Todo List**, a **CRUD application**, a **Weather App**, and an exciting **Personal Finance app**. Whether you're new to Django or just looking to explore, this guide will help you set up and run the project.
+Welcome to the **Django Projectus** repository! This beginner-friendly project includes a **Todo List**, a **CRUD application**, a **Weather App**, and an exciting **Personal finance app minuture but effective called finca **. Whether you're new to Django or just looking to explore, this guide will help you set up and run the project.
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
 2. [Setting Up the Project](#setting-up-the-project)
 3. [Todo List](#todo-list)
 4. [CRUD Application](#crud-application)
-5. [Weather App](#weather-app)
+5. [Weather Project](#weather-app)
 6. [Finica](#Finica)
+7. [tzs converter](# tzs converter)
+
 
 ## Prerequisites
 Before diving into the project, the following should be there:
@@ -57,10 +59,10 @@ The **CRUD application** demonstrates basic Create, Read, Update, and Delete ope
 The **Weather App** fetches real-time weather data for various cities using the OpenWeatherMap API. You can search for city weather by name. Access it at `http://localhost:8000/weather/`.
 
 ## Finica
-The **Finica** personal Finance app manages your incomea and expenses and displays for a graph showing how you can proper monitor them.
+The **Finica** personal Finance app manages your incomes and expenses and displays for a graph showing how you can proper monitor them.
 
 ## Deployment (Optional)
-To deploy your project, consider using platforms like **Heroku** or **PythonAnywhere**. Refer to their documentation for deployment instructions.
+To deploy the project, consider using platforms like **Heroku** or **PythonAnywhere**. Refer to their documentation for deployment instructions.
 
 
 

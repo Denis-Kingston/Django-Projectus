@@ -1,14 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Weather App</title>
-</head>
-<body>
-    <h1>Weather App</h1>
+{% extends 'base.html' %}
+
+{% block content %}
     <form method="post">
         {% csrf_token %}
         {{ form.as_p }}
         <button type="submit">Get Weather</button>
-    </form>
-</body>
-</html>
+{% endblock  %}         
